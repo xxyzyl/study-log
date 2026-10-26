@@ -18,6 +18,6 @@
 
 仓库初始化于 2026-10-26，目前尚未收到第一份学习内容。
 
-GitHub 仓库：[xxyzyl/study-log](https://github.com/xxyzyl/study-log)（私有）。
+GitHub 仓库：[xxyzyl/study-log](https://github.com/xxyzyl/study-log)（公开）。用户于 2026-10-26 要求公开，仓库内的学习记录和提交历史可供任何人查看。
 
 本地目录：`E:\任务\考研\study-log`。使用 `main` 分支保存记录；每次更新后核验远程结果，再报告同步状态。

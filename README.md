@@ -18,4 +18,4 @@
 
 仓库初始化于 2026-10-26，目前尚未收到第一份学习内容。
 
-拟建 GitHub 仓库：`shark-mk/study-log`（私有）。远程创建及首次同步尚待完成。
+拟建 GitHub 仓库：`tongtianzhu2000-tech/study-log`（私有）。远程创建及首次同步尚待完成。
